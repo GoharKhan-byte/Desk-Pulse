@@ -1,0 +1,15 @@
+# Update 'path' to your local directory on your Windows machine
+path: C:/Users/gohar.ali/Desktop/TestCV
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+names:
+  0: At-Desk-NotWorking
+  1: At-Desk-Working
+  2: Sleeping
+  3: Standing-NotWorking
+  4: Standing-Working
+  5: Walking
